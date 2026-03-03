@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Brilliant Headphones",
+    "price": 0,
+    "category": "Electronics",
+    "stock_quantity": 30
+  },
+  {
+    "name": "The Ultimate Encyclopedia",
+    "price": 56.99,
+    "category": "Books",
+    "stock_quantity": 120
+  },
+  {
+    "name": "Premium Leather Jacket",
+    "price": 299.99,
+    "category": "Clothing",
+    "stock_quantity": 15
+  },
+  {
+    "name": "Chocolate-Swirled Cheesecake",
+    "price": 15.50,
+    "category": "Food",
+    "stock_quantity": 0
+  },
+  {
+    "name": "Galaxy S20 Ultra",
+    "price": 11999.99,
+    "category": "Electronics",
+    "stock_quantity": 12
+  },
+  {
+    "name": "Böhnensäcke & Gartenzwerge",
+    "price": 23.75,
+    "category": "Books",
+    "stock_quantity": 47
+  },
+  {
+    "name": "Elegant Silk Scarf",
+    "price": 79.00,
+    "category": "Clothing",
+    "stock_quantity": 0
+  },
+  {
+    "name": "Organic Quinoa Pack",
+    "price": 12.00,
+    "category": "Food",
+    "stock_quantity": 50
+  },
+  {
+    "name": "Wireless Charger & Stand",
+    "price": 25.49,
+    "category": "Electronics",
+    "stock_quantity": 35
+  },
+  {
+    "name": "Beginner's Guide to Embedded Systems - Extend Your Foundation!",
+    "price": 34.95,
+    "category": "Books",
+    "stock_quantity": 60
+  }
+]

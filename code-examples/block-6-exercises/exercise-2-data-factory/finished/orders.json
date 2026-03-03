@@ -1,0 +1,44 @@
+[
+    {
+        "order_id": 5001,
+        "user_id": 1001,
+        "product_name": "Bluetooth Headphones",
+        "quantity": 2,
+        "total_price": 59.99
+    },
+    {
+        "order_id": 5002,
+        "user_id": 1002,
+        "product_name": "Wireless Mouse",
+        "quantity": 1,
+        "total_price": 29.99
+    },
+    {
+        "order_id": 5003,
+        "user_id": 1003,
+        "product_name": "Laptop Stand",
+        "quantity": 3,
+        "total_price": 89.97
+    },
+    {
+        "order_id": 5004,
+        "user_id": 1001,
+        "product_name": "Smart Watch",
+        "quantity": 1,
+        "total_price": 199.99
+    },
+    {
+        "order_id": 5005,
+        "user_id": 1003,
+        "product_name": "Desk Organizer",
+        "quantity": 4,
+        "total_price": 39.96
+    },
+    {
+        "order_id": 5006,
+        "user_id": 1004,
+        "product_name": "Gaming Chair",
+        "quantity": 1,
+        "total_price": 149.99
+    }
+]

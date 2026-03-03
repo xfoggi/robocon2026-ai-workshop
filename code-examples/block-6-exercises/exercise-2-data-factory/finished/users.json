@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 1001,
+        "name": "Emma-Jane O'Connor",
+        "email": "emma.jane.oconnor99@example.com",
+        "membership_level": "gold"
+    },
+    {
+        "user_id": 1002,
+        "name": "Liam Xavier Johnson-Smith",
+        "email": "liam_x_johnson_smith_very_long_email_address@exampledomainforecommerceplatform.com",
+        "membership_level": "silver"
+    },
+    {
+        "user_id": 1003,
+        "name": "Aña María López Ruiz",
+        "email": "añamaria.lopez@example.com",
+        "membership_level": "bronze"
+    },
+    {
+        "user_id": 1004,
+        "name": "Chris!",
+        "email": "chris.special_char_email@example.com",
+        "membership_level": ""
+    }
+]

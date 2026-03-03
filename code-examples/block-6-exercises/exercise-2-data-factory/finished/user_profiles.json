@@ -1,0 +1,58 @@
+[
+    {
+        "first_name": "Jiří",
+        "last_name": "Růžička",
+        "email": "jiri.ruzicka@example.cz",
+        "age": 0,
+        "country": "Czech Republic"
+    },
+    {
+        "first_name": "Élise",
+        "last_name": "Dubois",
+        "email": "elise.dubois@example.fr",
+        "age": 17,
+        "country": "France"
+    },
+    {
+        "first_name": "Rebecca",
+        "last_name": "Smith",
+        "email": "rebecca.smith12345@example.com",
+        "age": 18,
+        "country": "United States"
+    },
+    {
+        "first_name": "Akira",
+        "last_name": "山田",
+        "email": "akira.yamada@example.jp",
+        "age": 25,
+        "country": "Japan"
+    },
+    {
+        "first_name": "Miriam",
+        "last_name": "O'Connor",
+        "email": "miriam.oconnor!23@example.ie",
+        "age": 68,
+        "country": "Ireland"
+    },
+    {
+        "first_name": "Carmen",
+        "last_name": "González",
+        "email": "carmen.gonzalezlongnameforemail@example.es",
+        "age": 45,
+        "country": "Spain"
+    },
+    {
+        "first_name": "Adeola",
+        "last_name": "Oluwaseun",
+        "email": "adeola.oluwaseun@example.ng",
+        "age": 32,
+        "country": "Nigeria"
+    },
+    {
+        "first_name": "Emma",
+        "last_name": "Johnson",
+        "email": "emma.johnson@example.co.uk",
+        "age": 120,
+        "country": "United Kingdom"
+    }
+]

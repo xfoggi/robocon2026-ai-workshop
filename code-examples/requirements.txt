@@ -1,0 +1,5 @@
+robotframework>=7.4
+openai>=2.24.0
+google-genai>=1.0.0
+mcp>=1.20.0
+robotframework-requests>=0.9.7
